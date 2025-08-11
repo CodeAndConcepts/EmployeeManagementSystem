@@ -30,11 +30,13 @@ EmployeeManagementSystem/
 │   └── Intern.cs
 ```
 ## 🔍 OOP Concepts Demonstrated
-Principle	Implementation
-Encapsulation	Private fields and public properties with controlled access
-Inheritance	Manager, Developer, and Intern inherit from abstract Employee
-Abstraction	Abstract method CalculateSalary() in Employee class
-Polymorphism	Overridden methods used with a List<Employee> collection
+| Principle         | Implementation                                                        |
+| ----------------- | --------------------------------------------------------------------- |
+| **Encapsulation** | Private fields and public properties with controlled access           |
+| **Inheritance**   | `Manager`, `Developer`, and `Intern` inherit from abstract `Employee` |
+| **Abstraction**   | Abstract method `CalculateSalary()` in `Employee` class               |
+| **Polymorphism**  | Overridden methods used with a `List<Employee>` collection            |
+
 
 ## 🛠 Technologies Used
 Language: C#
